@@ -9,3 +9,6 @@ source ./venv/bin/activate
 
 - instalando o flask:
 pip install flask
+
+bibliotecas:
+- pip install requests
