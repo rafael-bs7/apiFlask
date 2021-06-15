@@ -1,0 +1,11 @@
+-instalando o venv:
+sudo pip3 install virtualenv
+
+- criando o venv na pasta:
+virtualenv -p python3 venv
+
+- executando o venv na pasta:
+source ./venv/bin/activate
+
+- instalando o flask:
+pip install flask
